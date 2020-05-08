@@ -25,7 +25,9 @@ be excluded by this logic.  If this is not the correct understanding, then the l
 making the following minor changes:
     - replacing the 'peekHeight < height' comparison on line 19 with 'peekHeight <= height'   
     - replacing the 'peekHeight > height' comparison on line 20 with 'peekHeight >= height'
-    - commenting out the .filter invocation on lines 8 - 11   
+    - commenting out the .filter invocation on lines 8 - 11
+    - the test case expected value on line 79 should be updated to 8   
+    - the test case expected value on line 79 should be updated to 8   
 
 ## How to install, build and run
 
