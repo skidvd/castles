@@ -27,7 +27,7 @@ making the following minor changes:
     - replacing the 'peekHeight > height' comparison on line 20 with 'peekHeight >= height'
     - commenting out the .filter invocation on lines 8 - 11
     - the test case expected value on line 79 should be updated to 8   
-    - the test case expected value on line 79 should be updated to 8   
+    - the test case expected value on line 83 should be updated to 5   
 
 ## How to install, build and run
 
